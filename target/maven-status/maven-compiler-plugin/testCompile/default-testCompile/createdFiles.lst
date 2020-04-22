@@ -1,0 +1,9 @@
+hook\Hooks.class
+resources\resources.class
+utils\Log.class
+utils\ReusableMethods.class
+resources\ResourcesAPI.class
+payloadsDatas\PlaceValidationDataBuild.class
+utils\SpecBuilder.class
+stepDefinitions\PlaceValidationSteps.class
+runner\TestRunner.class
